@@ -1,0 +1,24 @@
+name: Update OPC day counter
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update day count
+        run: |
+          START="2026-01-21"
+          TODAY=$(date -u +%Y-%m-%d)
+          DAYS=$(( ($(date -u -d "$TODAY" +%s) - $(date -u -d "$START" +%s)) / 86400 ))
+          sed -i "s/Day [0-9]* as a one-person company/Day $DAYS as a one-person company/" README.md
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "Update OPC day counter" && git push)

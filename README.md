@@ -22,12 +22,15 @@ Former PM at [Motiff](https://motiff.com) (AI design tools). Went indie in 2026 
 
 - 🎨 **[Curioso](https://github.com/bryant24hao/curioso)** — AI travel companion that identifies artworks & landmarks and tells their stories. Snap, hear, collect. [[Live Demo](https://curioso-snap-hear-the-story-collect-your-art-jour-728476832951.us-west1.run.app/)]
 - 🎄 **[Noel](https://github.com/bryant24hao/Luminescent-Particle-Christmas-Tree)** — AR interactive Christmas tree with hand gesture control and AI-generated holiday cards. [[Live Demo](https://luminescent-particle-christmas-tree-883780234684.us-west1.run.app/)]
+- 🏃 **[RunTracker Pro](https://github.com/bryant24hao/runtracker-pro)** — Modern running goal tracking app with mobile-first design
 
 ## OpenClaw Skills
 
 - 📅 **[macos-calendar-assistant-skill](https://github.com/bryant24hao/macos-calendar-assistant-skill)** — OpenClaw-native macOS calendar management
 - ⚡ **[cc-speed](https://github.com/bryant24hao/cc-speed)** — Claude Code token speed analyzer CLI
 - 🩺 **[oc-doctor](https://github.com/bryant24hao/oc-doctor)** — One command to diagnose your OpenClaw setup
+- 🎚️ **[CodexBar](https://github.com/bryant24hao/CodexBar)** — Show usage stats for OpenAI Codex and Claude Code, without having to login
+- 👥 **[ccclub](https://github.com/bryant24hao/ccclub)** — Know how much Claude Code your friends are burning through
 - 📦 **[skill-publisher](https://github.com/bryant24hao/skill-publisher)** — One command to publish agent skills everywhere
 - 🕹️ **[claw-network](https://github.com/bryant24hao/claw-network)** — 2D cyberpunk agent showcase plaza (WIP)
 

@@ -18,11 +18,6 @@ Former PM at [Motiff](https://motiff.com) (AI design tools). Went indie in 2026 
 - 🐾 **[ClawPuter](https://github.com/bryant24hao/ClawPuter)** — AI desktop pet on ESP32-S3 (M5Stack Cardputer). Voice, weather, pixel art, macOS companion. Solo-built the full stack: firmware → desktop app → AI agent.
 - 🧠 **MemoryX** — Personal digital companion with multi-agent collaboration. Not just a chatbot — a proactive partner that adapts to how you think and work.
 
-## Creative & Fun
-
-- 🎨 **[Curioso](https://github.com/bryant24hao/curioso)** — AI travel companion that identifies artworks & landmarks and tells their stories. Snap, hear, collect. [[Live Demo](https://curioso-snap-hear-the-story-collect-your-art-jour-728476832951.us-west1.run.app/)]
-- 🎄 **[Noel](https://github.com/bryant24hao/Luminescent-Particle-Christmas-Tree)** — AR interactive Christmas tree with hand gesture control and AI-generated holiday cards. [[Live Demo](https://luminescent-particle-christmas-tree-883780234684.us-west1.run.app/)]
-
 ## OpenClaw Skills
 
 - 📅 **[macos-calendar-assistant-skill](https://github.com/bryant24hao/macos-calendar-assistant-skill)** — OpenClaw-native macOS calendar management
@@ -35,6 +30,11 @@ Former PM at [Motiff](https://motiff.com) (AI design tools). Went indie in 2026 
 
 - 📖 **[拾刻 Shike](https://chromewebstore.google.com/detail/agoanicnncfnnilkkihplfkpkpkhdbac?utm_source=github)** — Classic literary moments on every new tab
 - 🧹 **[Tab Cleanup](https://chromewebstore.google.com/detail/eefjpecolahbfgfdpcjpfbeejoplfgnp?utm_source=github)** — Clean up your browser tabs
+
+## Creative & Fun
+
+- 🎨 **[Curioso](https://github.com/bryant24hao/curioso)** — AI travel companion that identifies artworks & landmarks and tells their stories. Snap, hear, collect. [[Live Demo](https://curioso-snap-hear-the-story-collect-your-art-jour-728476832951.us-west1.run.app/)]
+- 🎄 **[Noel](https://github.com/bryant24hao/Luminescent-Particle-Christmas-Tree)** — AR interactive Christmas tree with hand gesture control and AI-generated holiday cards. [[Live Demo](https://luminescent-particle-christmas-tree-883780234684.us-west1.run.app/)]
 
 ## GitHub Activity
 

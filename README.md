@@ -16,6 +16,7 @@ Former PM at [Motiff](https://motiff.com) (AI design tools). Went indie in 2026 
 ## What I'm Building
 
 - **[ClawPuter](https://github.com/bryant24hao/ClawPuter)** — AI desktop pet on ESP32-S3 (M5Stack Cardputer). Voice, weather, pixel art, macOS companion. Solo-built the full stack: firmware → desktop app → AI agent.
+- **[Curioso](https://github.com/bryant24hao/curioso)** — AI travel companion that identifies artworks & landmarks and tells their stories. Snap, hear, collect. [[Live Demo](https://curioso-snap-hear-the-story-collect-your-art-jour-728476832951.us-west1.run.app/)]
 - **MemoryX** — Personal digital companion with multi-agent collaboration. Not just a chatbot — a proactive partner that adapts to how you think and work.
 
 ## Creative & Fun

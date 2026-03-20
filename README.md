@@ -18,6 +18,10 @@ Former PM at [Motiff](https://motiff.com) (AI design tools). Went indie in 2026 
 - **[ClawPuter](https://github.com/bryant24hao/ClawPuter)** — AI desktop pet on ESP32-S3 (M5Stack Cardputer). Voice, weather, pixel art, macOS companion. Solo-built the full stack: firmware → desktop app → AI agent.
 - **MemoryX** — Personal digital companion with multi-agent collaboration. Not just a chatbot — a proactive partner that adapts to how you think and work.
 
+## Creative & Fun
+
+- **[Noel](https://github.com/bryant24hao/Luminescent-Particle-Christmas-Tree)** — AR interactive Christmas tree with hand gesture control and AI-generated holiday cards. [[Live Demo](https://luminescent-particle-christmas-tree-883780234684.us-west1.run.app/)]
+
 ## Open Source
 
 - **[macos-calendar-assistant-skill](https://github.com/bryant24hao/macos-calendar-assistant-skill)** — OpenClaw-native macOS calendar management

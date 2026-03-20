@@ -44,6 +44,7 @@ Former PM at [Motiff](https://motiff.com) (AI design tools). Went indie in 2026 
 
 [![X](https://img.shields.io/badge/-@bryantChenzh-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/bryantChenzh)
 [![WeChat](https://img.shields.io/badge/-豪大说-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
+[![即刻](https://img.shields.io/badge/-即刻-FFE411?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiPuWNszwvdGV4dD48L3N2Zz4=&logoColor=black)](https://web.okjike.com/u/BAB83B60-43E3-4996-8CD3-06FF9C3C81FF)
 [![Xiaohongshu](https://img.shields.io/badge/-小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/556bbfece58d136a0d92359e)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhenghao-chen-4ab16a16b/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bryant24hao)
